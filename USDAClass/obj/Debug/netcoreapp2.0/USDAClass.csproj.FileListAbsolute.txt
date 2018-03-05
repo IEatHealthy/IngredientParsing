@@ -1,0 +1,11 @@
+/Users/rezatakhti/Projects/USDAClass/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.deps.json
+/Users/rezatakhti/Projects/USDAClass/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.runtimeconfig.json
+/Users/rezatakhti/Projects/USDAClass/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.runtimeconfig.dev.json
+/Users/rezatakhti/Projects/USDAClass/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.dll
+/Users/rezatakhti/Projects/USDAClass/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.pdb
+/Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.csprojResolveAssemblyReference.cache
+/Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.csproj.CoreCompileInputs.cache
+/Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.AssemblyInfoInputs.cache
+/Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.AssemblyInfo.cs
+/Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.dll
+/Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.pdb

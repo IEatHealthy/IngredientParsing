@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{801A17E6-7D68-494C-AE41-152978D51062}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="USDAClass/EmptyClass.cs">
+    <Files>
+      <File FileName="USDAClass/Program.cs" Line="10" Column="41" />
+      <File FileName="USDAClass/EmptyClass.cs" Line="159" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.USDAClass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -9,3 +9,14 @@
 /Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.AssemblyInfo.cs
 /Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.dll
 /Users/rezatakhti/Projects/USDAClass/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.pdb
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.deps.json
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.runtimeconfig.json
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.runtimeconfig.dev.json
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.dll
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/bin/Debug/netcoreapp2.0/USDAClass.pdb
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.csprojResolveAssemblyReference.cache
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.csproj.CoreCompileInputs.cache
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.AssemblyInfoInputs.cache
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.AssemblyInfo.cs
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.dll
+/Users/Evan/Documents/cs472/IngredientParsing/IngredientParsing/USDAClass/obj/Debug/netcoreapp2.0/USDAClass.pdb

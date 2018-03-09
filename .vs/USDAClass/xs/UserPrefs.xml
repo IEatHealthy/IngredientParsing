@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{801A17E6-7D68-494C-AE41-152978D51062}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="USDAClass/EmptyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="USDAClass/Program.cs">
     <Files>
-      <File FileName="USDAClass/Program.cs" Line="10" Column="41" />
-      <File FileName="USDAClass/EmptyClass.cs" Line="159" Column="32" />
+      <File FileName="USDAClass/Program.cs" Line="6" Column="34" />
+      <File FileName="USDAClass/ParserClass.cs" Line="143" Column="1" />
+      <File FileName="USDAClass/Ingredient.cs" Line="33" Column="10" />
+      <File FileName="USDAClass/MongoClientFactory.cs" Line="3" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

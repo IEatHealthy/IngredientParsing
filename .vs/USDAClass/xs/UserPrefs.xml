@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{801A17E6-7D68-494C-AE41-152978D51062}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="USDAClass/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="USDAClass/Ingredient.cs">
     <Files>
       <File FileName="USDAClass/Program.cs" Line="6" Column="34" />
       <File FileName="USDAClass/ParserClass.cs" Line="143" Column="1" />

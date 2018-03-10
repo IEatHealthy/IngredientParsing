@@ -1,4 +1,6 @@
 ﻿using System;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 namespace USDAClass
 {
@@ -26,6 +28,7 @@ namespace USDAClass
         public double Vit_A_IU { get; set; }
         public double Vit_D_IU { get; set; }
         public double Cholestrol { get; set; }
+        public Ingredient(){}
 
         public void print(){
             Console.WriteLine("Ingredient No.: " + NBD_No);

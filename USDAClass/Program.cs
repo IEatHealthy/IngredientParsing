@@ -54,23 +54,26 @@ namespace USDAClass
                 ci.Vit_A_IU = ingredient.Vit_A_IU;
                 ci.Vit_D_IU = ingredient.Vit_D_IU;
                 ci.Cholestrol = ingredient.Cholestrol;
-
-                ci.print();
                 convertedIngredients.Add(ci);
             }
 
-            string name = "";
-            do
-            {
-                Console.WriteLine("Enter an ingredient name:");
-                name = Console.ReadLine();
-                name = name.ToUpper();
-                for (int i = 0; i < Ingredients.Count; i++)
-                {
-                    if (Ingredients[i].Shrt_Desc.Contains(name))
-                        Console.WriteLine(Ingredients[i].Shrt_Desc);
-                }
-            } while (name != "q");
+            var db = _client.GetDatabase("food-data");
+            var collection = db.GetCollection<Ingredient>("ingredients");
+
+            collection.InsertMany(convertedIngredients);
+
+            //string name = "";
+            //do
+            //{
+            //    Console.WriteLine("Enter an ingredient name:");
+            //    name = Console.ReadLine();
+            //    name = name.ToUpper();
+            //    for (int i = 0; i < Ingredients.Count; i++)
+            //    {
+            //        if (Ingredients[i].Shrt_Desc.Contains(name))
+            //            Console.WriteLine(Ingredients[i].Shrt_Desc);
+            //    }
+            //} while (name != "q");
         }
     }
 }

@@ -12,7 +12,7 @@ namespace USDAClass
         private static MongoClient _instance = null;
 
         private static object syncLock = new object();
-        private const string CONNECT_STRING = "mongodb://IEatHealthy:j4fF4LoMPF1saw9w@ieathealthy-cluster0-shard-00-00-0q8tc.mongodb.net:27017,ieathealthy-cluster0-shard-00-01-0q8tc.mongodb.net:27017,ieathealthy-cluster0-shard-00-02-0q8tc.mongodb.net:27017/test?ssl=true&replicaSet=IEatHealthy-Cluster0-shard-0&authSource=admin";
+        private const string CONNECT_STRING = "<INSERT CONNECT STRING HERE>";
 
         protected MongoClientFactory(){}
 
